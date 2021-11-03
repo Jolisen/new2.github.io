@@ -1,0 +1,52 @@
+#home{
+		width: 940px;
+		height: auto;
+		margin: 15px auto 0px;
+	}
+	#show2{
+		width: 940px;
+		height: 111px;
+	}
+	#show2 div{
+		width: 110px;
+		height: 110px;
+		float: left;
+		padding: 0 39px 20px;
+	}
+	#liubai{
+		padding-top: 50px;
+	}
+	#show3{
+		width: 940px;
+		height: 33px;
+		text-align: center;
+		background-color: #000079;
+	}
+	#show4{
+		width: 940px;
+		height: 230px;
+	}
+	#show4 div{
+		width: 172px;
+		height: 230px;
+		float:left;
+		padding: 0 7px 0px;
+	}
+	#maintext{
+		width: 940px;
+		height: auto;
+		text-align: center;
+	}
+	#ctext{
+		width: 940px;
+		height: auto;
+		text-align: center;
+	}
+	#button{
+		width: 1228px;
+		height: auto;
+		background-color: #e7e7e7;
+		margin: 0px auto;
+		text-align: center;
+		border-top: 1px solid black;
+	}
